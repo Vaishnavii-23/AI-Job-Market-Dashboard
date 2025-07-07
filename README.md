@@ -19,8 +19,7 @@ A sleek Power BI dashboard analyzing trends in the AI job market.
 
 ## 📁 Files
 - `dashboard.png` - Dashboard image
-- `AI_Job_Dashboard.pbix` - (optional Power BI file)
-
+- 'AI- Job market insights.csv' - dataset used
 ---
 
 Created by: Vaishnavi Ghuge 🎓  
